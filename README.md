@@ -5,3 +5,4 @@ Sistema de Recomendação de Filmes para o projeto final de Estrutura de Dados
 - Giovana
 - Gustavo
 - João Luiz
+- Matheus Alves
